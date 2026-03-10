@@ -11,8 +11,8 @@ The report covers:
 - Validation of file access, download, and upload behavior
 - Analysis of legacy Windows XP and IIS exposure
 
-## Files
-- `FTPVM-Host-Security-Assessment-and-Vulnerability-Analysis-Report.docx`
+## File
+- https://github.com/hammakjaff-netizen/ftpvm-host-security-assessment-report/blob/17db877f7cb37aa099787ea5d13cbb6c8565d0e4/FTPVM-Host-Security-Assessment-and-Vulnerability-Analysis-Report.pdf
 
 ## Notes
 This assessment was conducted in an authorized lab environment for technical security analysis and documentation purposes.
